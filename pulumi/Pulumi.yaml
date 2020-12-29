@@ -1,3 +1,0 @@
-name: pulumi_digitalocean_play
-runtime: nodejs
-description: A minimal DigitalOcean TypeScript Pulumi program
